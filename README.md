@@ -15,12 +15,35 @@ Each of the modules is hands-on, project-based, using real world data from [KIVA
 
 [Delta Analytics](http://www.deltanalytics.org/) is a 501(c)3 Bay Area non-profit dedicated to bringing rigorous data science to problem-solving, effecting change in nonprofits and the public sector, and making data science an accessible and democratic resource for anyone with the same mission. 
 
+<img src="https://pbs.twimg.com/profile_images/935574083256819713/vORBliVR_400x400.jpg" width="100" height="100">
+
+
 Overview
 ----
 
 Topics covered in this course include: data cleaning, supervised machine learning, and unsupervised machine learning.
 
 The slides that cover the theory of the topic are available [here](http://www.deltanalytics.org/curriculum.html). We present theory alongside real-life data science examples will open doors to novices and professionals alike to harness the power of data for good. 
+
+In some countries such as Ghana and Uganda, weebly (our website host) has blocked traffic. We have submitted numerous complaints, and apologize to students for the inconvinience. Until then, you can access pdf of all course slides below.
+
+[Module 1 - Introduction to Machine Learning](https://drive.google.com/file/d/1r4SBY6Dm6xjFqLH12tFb-Bf7wbvoIN_C/view?usp=sharing)
+
+[Module 2 - Machine learning deep dive](https://drive.google.com/file/d/1EZ_xqMaYj77vErVnrQmnFOj-VBEoO5uW/view?usp=sharing)
+
+[Module 3 - Linear Regression](https://drive.google.com/file/d/1kXbB7fps78xyFYUtmgNlQJJ3LdO0K3TB/view?usp=sharing)
+
+[Module 4 - Model Selection and Evaluation](https://drive.google.com/file/d/1ESR4U566uPioFCpFOITpuSBaO45MdJ4O/view?usp=sharing)
+
+[Module 5 - Decision Trees](https://drive.google.com/file/d/1Sd_LN-WE_W3Zo-YZrMBe90H2i4_ieFRs/view?usp=sharing)
+
+[Module 6 - Ensemble Algorithms](https://drive.google.com/file/d/1g2AT3S5cgu5HjMYt4X-WiVs0RUvI6Z3s/view?usp=sharing)
+
+[Module 7 - Unsupervised Algorithms](https://drive.google.com/file/d/1YdA-HHYP1V05QgvwLCvfnuuau67Zl38n/view?usp=sharing)
+
+[Module 8 - Natural Language Processing Pt. 1](https://drive.google.com/file/d/1Y7gOfnPfyCSu1chWEoHMqhgXVI5KZpRx/view?usp=sharing)
+
+[Module 9 - Natural Language Processing Pt. 2](https://drive.google.com/file/d/1BUJ0FyMzSxCfHNA0AHwBOxjHt7V2FJj8/view?usp=sharing)
 
 Course outcomes 
 ----
@@ -40,18 +63,3 @@ Our teachers
 -----
 
 [Delta Teaching Fellows](http://www.deltanalytics.org/delta-teaching-fellows.html) are all data professionals working in the San Francisco Bay Area. All of our time is donated for free to build out a curriculum that makes machine learning tools and knowledge more accessible to communities around the world. You can learn more about our team [here](http://www.deltanalytics.org/delta-teaching-fellows.html).
-
-Modules
-----
-
-0) [Introduction](module_0_introduction/README.md)
-
-1) [Descriptive Statistics](module_1_descriptive_statistics/README.md) 
-
-2) [Feature Engineering](module_2_feature_engineering/README.md)
-
-3) [Linear Regression](module_3_linear_regression/README.md)
-
-4) [Decision Trees](module_4_decision_trees/README.md) 
-
-5) [Unsupervised Learning](module_5_unsupervised_learning/README.md)
